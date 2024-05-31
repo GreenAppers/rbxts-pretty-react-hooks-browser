@@ -107,7 +107,7 @@
 
 "@rbxts/react@git+https://github.com/GreenAppers/rbxts-react-browser.git":
   version "0.1.0"
-  resolved "git+https://github.com/GreenAppers/rbxts-react-browser.git#11837927787b6e5b205b26a86478c56a7939f0e4"
+  resolved "git+https://github.com/GreenAppers/rbxts-react-browser.git#d8b0ad04d6b884280d7e958179cf4569e5723594"
 
 "@rbxts/set-timeout@git+https://github.com/GreenAppers/rbxts-set-timeout-browser.git":
   version "0.1.0"
