@@ -205,6 +205,8 @@ export function toBinding<T>(value: T | Binding<T>): Binding<T> {
 
 export const useCamera = () => ({
   FieldOfView: 70,
+  ViewportSize: new Vector2(1024, 768),
+  GetPropertyChangedSignal: (property: string) => ({} as any)
 });
 
 /**
